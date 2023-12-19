@@ -1,2 +1,2 @@
-# My-third-pject
+# My-third-project
 this is my third project 
